@@ -5,7 +5,7 @@ First, create the environment from the py3_environment.yml file:
 
 `conda env create -f py3_environment.yml`
 
-Second, activate the new environment
+Second, activate the new environment:
 
 `conda activate py3`
 
