@@ -1,5 +1,5 @@
 # ADR-2_localization
-This repository contains scripts to process FASTQ files as described in Eliad et al., 2023. 
+This repository contains scripts to process FASTQ files as described in Eliad et al., 2024. 
 To run the scripts, activating our “py3” environment is essential.
 First, create the environment from the py3_environment.yml file:
 
