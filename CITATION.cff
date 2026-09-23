@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the software and the associated article."
+title: "Analysis scripts for ADBP-1 regulation of ADR-2 nuclear localization"
+type: software
+version: "1.0.0"
+
+authors:
+  - family-names: "Eliad"
+    given-names: "Berta"
+    affiliation: "Faculty of Biology, Technion – Israel Institute of Technology"
+
+  - family-names: "Lamm"
+    given-names: "Ayelet T."
+    affiliation: "Faculty of Biology, Technion – Israel Institute of Technology"
+
+abstract: >
+  Analysis scripts associated with the article
+  "ADBP-1 regulates ADR-2 nuclear localization to control editing
+  substrate selection."
+
+keywords:
+  - A-to-I RNA editing
+  - ADAR
+  - ADR-2
+  - ADBP-1
+  - Caenorhabditis elegans
+  - RNA sequencing
+  - bioinformatics
+
+preferred-citation:
+  type: article
+  title: "ADBP-1 regulates ADR-2 nuclear localization to control editing substrate selection"
+  authors:
+    - family-names: "Eliad"
+      given-names: "Berta"
+    - family-names: "Schneider"
+      given-names: "Noa"
+    - family-names: "Ben-Naim Zgayer"
+      given-names: "Orna"
+    - family-names: "Amichan"
+      given-names: "Yarden"
+    - family-names: "Glaser"
+      given-names: "Fabian"
+    - family-names: "Erdmann"
+      given-names: "Emily A."
+    - family-names: "Rajendren"
+      given-names: "Suba"
+    - family-names: "Hundley"
+      given-names: "Heather A."
+    - family-names: "Lamm"
+      given-names: "Ayelet T."
+  journal: "Nucleic Acids Research"
+  year: 2024
+  volume: 52
+  issue: 16
+  start: 9501
+  end: 9518
+  doi: "10.1093/nar/gkae641"
