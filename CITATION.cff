@@ -3,6 +3,7 @@ message: "If you use these scripts, please cite the software and the associated 
 title: "Analysis scripts for ADBP-1 regulation of ADR-2 nuclear localization"
 type: software
 version: "1.0.0"
+license: MIT
 
 authors:
   - family-names: "Eliad"
